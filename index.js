@@ -1,3 +1,5 @@
+import { process } from '/env'
+  
 const setupTextarea = document.getElementById('setup-textarea') 
 const setupInputContainer = document.getElementById('setup-input-container')
 const movieBossText = document.getElementById('nellie-bot-text')
